@@ -1,0 +1,15 @@
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\bin\Debug\DataLayerAccess.dll.config
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\bin\Debug\DataLayerAccess.dll
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\bin\Debug\DataLayerAccess.pdb
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\bin\Debug\EntityFramework.dll
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\bin\Debug\EntityLayer.dll
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\bin\Debug\EntityLayer.pdb
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\bin\Debug\EntityLayer.dll.config
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\bin\Debug\EntityFramework.xml
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\obj\Debug\DataLayerAccess.csproj.AssemblyReference.cache
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\obj\Debug\DataLayerAccess.csproj.CoreCompileInputs.cache
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\obj\Debug\DataLayerAccess.csproj.CopyComplete
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\obj\Debug\DataLayerAccess.dll
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\DataLayerAccess\obj\Debug\DataLayerAccess.pdb

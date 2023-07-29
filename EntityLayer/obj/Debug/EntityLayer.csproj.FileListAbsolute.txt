@@ -1,0 +1,12 @@
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\EntityLayer\bin\Debug\EntityLayer.dll
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\EntityLayer\bin\Debug\EntityFramework.dll
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\EntityLayer\bin\Debug\EntityFramework.xml
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\EntityLayer\obj\Debug\EntityLayer.dll
+C:\.Net Dersler\MVCProjectCamp\MVCProjectCamp\EntityLayer\obj\Debug\EntityLayer.pdb
